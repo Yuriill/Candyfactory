@@ -1,0 +1,39 @@
+header a { 
+    font-size: 15px;
+    border: 1px solid rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+    background-color:rgb(226, 110, 43) ;
+    color: blue;
+}
+body{
+    background-color: plum;
+}
+header h1 {
+    text-align: center;
+}
+main h1 {
+    font-size: 30px;
+    color: rgb(254, 246, 176);
+}
+main  h2{
+    font-size: 25px;
+    color: rgb(25, 58, 56);
+}
+p {
+    font-size: 20px;
+}
+main img{
+    width: 400px;
+
+}
+header img {
+    width: 80px;
+}
+footer p{
+    font-size: 8px;
+}
+nav{
+    text-align: center;
+}
